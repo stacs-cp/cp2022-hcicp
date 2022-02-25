@@ -1,6 +1,6 @@
 # ReadMe
 
-This folder contains the supplementary materials for the paper titled: "nderstanding how people approach constraint modelling and solving"
+This folder contains the supplementary materials for the paper titled: "Understanding how people approach constraint modelling and solving"
 
 ## Folder Contents
 
