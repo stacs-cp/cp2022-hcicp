@@ -9,7 +9,7 @@ The descriptions for each of the data files are in the table below. Some files a
 | File/Folder Name | Description |
 | ---------------- | ----------- |
 | Artefact Scans | Scanned images of all the artefacts that participants produced |
-| CompleteCodes.cvs | CSV file containing all observations |
+| CompleteCodes.csv | CSV file containing all observations |
 | Intercoder Analysis.csv | CSV files showing the data of the intercoder analysis and the simple percentage analysis of the data |
 | Participant ID Conversion.csv | CSV File mapping between the ID used for the artefact file naming and shown on the artefact to Participant IDs used in the paper |
 | Problem Descriptions.pdf | PDF file providing problem descriptions given to the participants |
