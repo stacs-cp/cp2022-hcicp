@@ -2,7 +2,7 @@ CSV containing data from the intercoder rating session
 
 The headers contain all the possible Visual Elements vs Parts of Problem Language Combinations
 
-The rows are grouped by artifacts (all the pages of problem for a participant).
+The rows are grouped by artefacts (all the pages of problem for a participant).
 
 Each coder is represented by a colour.
 
@@ -12,6 +12,6 @@ The amount of correlation between the control coder and the others are calculate
 
 The formula used is: 1-(ABS(SUM(Other coders, Control Coder*-3))/COUNT(Other coders))
 
-The average of correlation is calculated for all the code combinations and is show in the agreement column for each artifact
+The average of correlation is calculated for all the code combinations and is show in the agreement column for each artefact
 
-The average of all the artifacts is calculated and is at the bottom of the agreement column
+The average of all the artefacts is calculated and is at the bottom of the agreement column
