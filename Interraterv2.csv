@@ -1,0 +1,13 @@
+﻿Artifact,Coder,Agreement,Grids,Tables,Boxes/Circles,Punctuation,People,Emoji,Other,Labels,Text,Simple Maths,Advanced Maths,Arrows/Lines,Colour,Proximity,Recreating Instance,Lists/Sequences,Crossing out,Pointing serial,Pointing parallel,Pointing Multi-tap,Drag,Lasso,Manipulation,List (sorted),Table,Groupings,Temprary Solution,"Visual rep, globally possible values","Visual rep, locally possible values",Backtracking remember (no)goods,Backtracking forget (no)goods,Backtracking same strategy,Backtracking different strategy,Restart remember (no)goods,Restart forget (no)goods,Restart same strategy,Restart different strategy,Random Partial Assignment,Determine (no)foods,Propagation,Sort by value,Sort by weight,Sort by value/weight ratio,Sort by weight/value ratio,Sort by weight value product,BCR Elimination,BCR only possible value,BCR only possible cell,BCR last cell,Position in block,Cell focus,Pair Elimination,Follow most recent value,Random Full Assignment,Column equations,ENR relations,L->R nogoods,Last col nogoods
+5-9-10-1:Knapsack,Blue,,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,,,,,,,,,,,,,
+,Green,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,,
+,Red,,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,,,,,,,,,,,,,
+,Yellow,,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,,
+4-25-10-1:Sudoku,Blue,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,,1,1,1,1,1,1,1,1,,,,,
+,Green,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,,1,1,1,1,1,0,1,0,,,,,
+,Red,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,,,,,,1,1,0,1,1,1,1,1,,,,,
+,Yellow,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,,,,1,1,1,1,1,1,1,1,,,,,
+4-20-15-2:Word Crypto,Blue,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,,,,,,,,,,,,,,0,0,0,1,1
+,Green,,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,1,1,0,,,,,,,,,,,,,,0,0,0,1,1
+,Red,,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,0,0,0,1,1
+,Yellow,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,1,,,,,,,,,,,,,,0,0,0,1,1
