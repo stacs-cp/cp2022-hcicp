@@ -10,7 +10,10 @@ The descriptions for each of the data files are in the table below. Some files a
 | ---------------- | ----------- |
 | Artefact Scans | Scanned images of all the artefacts that participants produced |
 | CompleteCodes.csv | CSV file containing all observations |
-| Intercoder Analysis.csv | CSV files showing the data of the intercoder analysis and the simple percentage analysis of the data |
+| Interraterv1.csv | CSV files showing the data of the intercoder analysis and the simple percentage analysis of the data for the first intercoder pass |
+| Interraterv1.ipynb | Jupyter Notebook file calculating the kappa statistic for the first intercoder pass |
+| Interraterv2.csv | CSV files showing the data of the intercoder analysis and the simple percentage analysis of the data for the second refined intercoder pass|
+| Interraterv2.ipynb | Jupyter Notebook file calculating the kappa statistic for the second intercoder pass |
 | Participant ID Conversion.csv | CSV File mapping between the ID used for the artefact file naming and shown on the artefact to Participant IDs used in the paper |
 | Problem Descriptions.pdf | PDF file providing problem descriptions given to the participants |
 | Problem Difficulty.pdf | PDF file providing problem difficulty ratings |
