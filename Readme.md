@@ -19,3 +19,4 @@ The descriptions for each of the data files are in the table below. Some files a
 | Problem Difficulty.pdf | PDF file providing problem difficulty ratings |
 | Problem Pairs.pdf | PDF file providing the order of problems given to the participants and how they were distributed |
 | Readme.md | This file |
+| codes.pdf | PDF file providing explanations/definitions of the codes used in the analysis |
