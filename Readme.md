@@ -1,6 +1,8 @@
 # ReadMe
 
-This folder contains the supplementary materials for the paper titled: "Understanding how people approach constraint modelling and solving"
+## Ruth Hoffmann, Xu Zhu, Özgür Akgün, Miguel A. Nacenta. *Understanding How People Approach Constraint Modelling and Solving*. The 28th International Conference on Principles and Practice of Constraint Programming (CP) 2022. [Accepted/To Be Published](https://cp2022.a4cp.org/accepted_papers.html)
+
+This repository contains the supplementary materials for the paper.
 
 ## Folder Contents
 
